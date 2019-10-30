@@ -86,3 +86,4 @@ It is used to create 128-d face embeddings of the input image as well as custom 
 * [Facial Landmarks](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
 * [Facial Alignment](https://www.pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/)
 * [Face Recognition for Beginners](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
+* [Face recognition OpenCV Python Tutorial](https://www.youtube.com/watch?v=PmZ29Vta7Vc&t=2530s)
